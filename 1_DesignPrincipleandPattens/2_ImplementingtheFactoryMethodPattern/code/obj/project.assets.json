@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\Cognizant\\learning-program-solutions\\1_DesignPrincipleandPattens\\1_ImplementingtheFactoryMethodPattern\\code\\code.csproj",
+      "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\Cognizant\\learning-program-solutions\\1_DesignPrincipleandPattens\\2_ImplementingtheFactoryMethodPattern\\code\\code.csproj",
       "projectName": "code",
-      "projectPath": "C:\\Users\\KIIT\\Desktop\\Cognizant\\learning-program-solutions\\1_DesignPrincipleandPattens\\1_ImplementingtheFactoryMethodPattern\\code\\code.csproj",
+      "projectPath": "C:\\Users\\KIIT\\Desktop\\Cognizant\\learning-program-solutions\\1_DesignPrincipleandPattens\\2_ImplementingtheFactoryMethodPattern\\code\\code.csproj",
       "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KIIT\\Desktop\\Cognizant\\learning-program-solutions\\1_DesignPrincipleandPattens\\1_ImplementingtheFactoryMethodPattern\\code\\obj\\",
+      "outputPath": "C:\\Users\\KIIT\\Desktop\\Cognizant\\learning-program-solutions\\1_DesignPrincipleandPattens\\2_ImplementingtheFactoryMethodPattern\\code\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config"

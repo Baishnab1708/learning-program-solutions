@@ -1,0 +1,5 @@
+IF DB_ID('EmployeeDB') IS NOT NULL
+    DROP DATABASE EmployeeDB;
+GO
+CREATE DATABASE EmployeeDB;
+GO
