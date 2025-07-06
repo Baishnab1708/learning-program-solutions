@@ -8,6 +8,6 @@ public class AppDbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=RetailStoreDb;Trusted_Connection=True;");
+        optionsBuilder.UseSqlServer("Server=BT-2205200\\SQLEXPRESS;Database=RetailStoreDb;Trusted_Connection=True;Encrypt=True;TrustServerCertificate=True;");
     }
 }
