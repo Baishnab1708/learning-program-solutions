@@ -1,0 +1,64 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_DataStructuresandAlgorithms", "1_DataStructuresandAlgorithms", "{DD93318C-F691-B5BF-B9B9-D3B9B7C3F663}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_DesignPrincipleandPattens", "1_DesignPrincipleandPattens", "{C444B6EE-3672-4229-C676-14F49008174B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_E-commercePlatformSearchFunction", "1_E-commercePlatformSearchFunction", "{0D77C997-13B7-31D6-4D10-895F1CAB4133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "code", "1_DataStructuresandAlgorithms\1_E-commercePlatformSearchFunction\code\code.csproj", "{1A5D8EA6-5ADB-3D55-75F3-3E39EF6DD6B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2_FinancialForecasting", "2_FinancialForecasting", "{B32BF904-B782-82CC-68D4-3A27B08BEA2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "code", "1_DataStructuresandAlgorithms\2_FinancialForecasting\code\code.csproj", "{3C265934-0775-39A5-3A97-2E341F9C26CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_ImplementingtheSingletonPattern", "1_ImplementingtheSingletonPattern", "{F5C1DF34-E7B8-9581-5F7B-406EDFDD4BBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "code", "1_DesignPrincipleandPattens\1_ImplementingtheSingletonPattern\code\code.csproj", "{0194BC76-84CD-AA9D-E92E-1359C1CCD94B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2_ImplementingtheFactoryMethodPattern", "2_ImplementingtheFactoryMethodPattern", "{F91FC3B9-75A7-D4E3-13EF-2E042AD57788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "code", "1_DesignPrincipleandPattens\2_ImplementingtheFactoryMethodPattern\code\code.csproj", "{0F7DE532-50A3-B3A6-1047-23E91DA895BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A5D8EA6-5ADB-3D55-75F3-3E39EF6DD6B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A5D8EA6-5ADB-3D55-75F3-3E39EF6DD6B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A5D8EA6-5ADB-3D55-75F3-3E39EF6DD6B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A5D8EA6-5ADB-3D55-75F3-3E39EF6DD6B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C265934-0775-39A5-3A97-2E341F9C26CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C265934-0775-39A5-3A97-2E341F9C26CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C265934-0775-39A5-3A97-2E341F9C26CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C265934-0775-39A5-3A97-2E341F9C26CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0194BC76-84CD-AA9D-E92E-1359C1CCD94B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0194BC76-84CD-AA9D-E92E-1359C1CCD94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0194BC76-84CD-AA9D-E92E-1359C1CCD94B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0194BC76-84CD-AA9D-E92E-1359C1CCD94B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7DE532-50A3-B3A6-1047-23E91DA895BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7DE532-50A3-B3A6-1047-23E91DA895BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7DE532-50A3-B3A6-1047-23E91DA895BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7DE532-50A3-B3A6-1047-23E91DA895BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0D77C997-13B7-31D6-4D10-895F1CAB4133} = {DD93318C-F691-B5BF-B9B9-D3B9B7C3F663}
+		{1A5D8EA6-5ADB-3D55-75F3-3E39EF6DD6B4} = {0D77C997-13B7-31D6-4D10-895F1CAB4133}
+		{B32BF904-B782-82CC-68D4-3A27B08BEA2A} = {DD93318C-F691-B5BF-B9B9-D3B9B7C3F663}
+		{3C265934-0775-39A5-3A97-2E341F9C26CE} = {B32BF904-B782-82CC-68D4-3A27B08BEA2A}
+		{F5C1DF34-E7B8-9581-5F7B-406EDFDD4BBE} = {C444B6EE-3672-4229-C676-14F49008174B}
+		{0194BC76-84CD-AA9D-E92E-1359C1CCD94B} = {F5C1DF34-E7B8-9581-5F7B-406EDFDD4BBE}
+		{F91FC3B9-75A7-D4E3-13EF-2E042AD57788} = {C444B6EE-3672-4229-C676-14F49008174B}
+		{0F7DE532-50A3-B3A6-1047-23E91DA895BD} = {F91FC3B9-75A7-D4E3-13EF-2E042AD57788}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7906DE38-FE4C-467E-9A21-C9A2EB500478}
+	EndGlobalSection
+EndGlobal
